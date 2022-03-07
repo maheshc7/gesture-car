@@ -8,7 +8,7 @@ A Gesture Controlled Robot Arduino Car
 4. Convert the signal into corresponding voltages to move the motors.
 
 ##  Contents
-1. gesture-recog.py to train the gestures and obtain the vgg model.
+1. Run gesture-recog.py to train the gestures and obtain the vgg model.
 2. Run the model and transmit signal to the Arduino car using rf_control.py file.
 
 ## Flow Diagram
