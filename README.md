@@ -1,6 +1,7 @@
 # gesture-car
 A Gesture Controlled Robot Arduino Car
 
+Authors: Ananya Sundararajan, Mahesh Narpat Chand
 ## Approach
 1. Use a camera to catch live gesture image input.
 2. Transfer the input image to the gesture recognition module.
@@ -13,5 +14,3 @@ A Gesture Controlled Robot Arduino Car
 
 ## Flow Diagram
 ![image](https://user-images.githubusercontent.com/18104656/156959111-d1104b93-1597-4302-866c-e83f868a5ab1.png)
-
-
