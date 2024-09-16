@@ -1,5 +1,5 @@
 # gesture-car
-A Gesture Controlled Robot Arduino Car
+[A Gesture Controlled Robot Arduino Car](https://docs.google.com/presentation/d/1Lb0c5RhTpcOTH-1fRDtfHK_VzTmxMmPF5R6QQcW8Z_s/pub?start=true&loop=false&delayms=3000)
 
 Authors: Ananya Sundararajan, Mahesh Narpat Chand
 ## Approach
